@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(to left, rgb(173, 83, 137), rgb(60, 16, 83));
+font-family: 'Playfair Display';
+}
+
+.container{
+    background: white;
+    position: center;
+    width: 80%;
+    padding-left: 20px;
+}
+
+.first-p{
+    color: #900048;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
+
+h1{
+    font-size: 120px;
+    color:  #240041;
+    float: left;
+}
+
+h3{
+    font-size: 20px;
+    color: #900048;
+    float: left;
+}
+
+.jackson-profile{
+    background: #240041;
+   color: whitesmoke;
+}
+.profile{
+    float:left;
+    font-size: 20px;
+    width:70%;
+    font-family:'Poppins';
+}
+#jackson-image{
+    float:right;
+}
+
+#jackson-img {
+    float:right;
+}
+/* background:  background: #240041;#900048; background: #ff4057; background: #ff8260; *
